@@ -1,0 +1,1 @@
+{"version":3,"file":"time.js","sourceRoot":"","sources":["../../../src/core/baseFunction/time.ts"],"names":[],"mappings":";AAKA,MAAM,QAAQ;IACV,iBAAiB,CAAC,QAAqB;QACnC,QAAQ,CAAC,KAAK,CAAC,QAAQ,EAAE,CAAA;QACzB,QAAQ,CAAC,KAAK,CAAC,WAAW,EAAE,CAAA;QAC5B,QAAQ,CAAC,KAAK,CAAC,QAAQ,EAAE,CAAA;IAC7B,CAAC;IACD,gBAAgB;IAEhB,CAAC;IACD,eAAe,KAAG,CAAC;CACtB"}

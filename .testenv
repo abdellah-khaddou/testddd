@@ -1,0 +1,6 @@
+SecretKey=123456
+NODE_ENV=test
+databaseURI=mongodb://localhost:27017/api_test
+port=3002
+errorLogs=devLogs/errors.txt
+infoLogs=devLogs/logs.txt
